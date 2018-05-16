@@ -1,0 +1,23 @@
+{
+  "name": "edx_dev283x",
+  "version": "1.0.0",
+  "description": "submissions for edx dev283x courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalmillategui/edx_dev283x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalmillategui/edx_dev283x/issues"
+  },
+  "homepage": "https://github.com/jalmillategui/edx_dev283x#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.12"
+  }
+}
